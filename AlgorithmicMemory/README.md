@@ -1,0 +1,1 @@
+﻿This project is created for C# practice purposes and to have a library of algorithms to use whenever comes the need.
